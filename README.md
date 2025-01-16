@@ -17,7 +17,7 @@ pip install pandas numpy math typing datetime
 # Google Data Studio
 Para uma visualização mais interativa e informativa dos dados, criamos um dashboard usando o Google Data Studio. O dashboard oferece gráficos dinâmicos e visualizações envolventes, permitindo uma compreensão mais profunda dos padrões e tendências nos dados da COVID-19 em 2021.
 
-Acesse o Dashboard: (https://lookerstudio.google.com/reporting/b721d38f-506d-4c2c-a878-29bb906aa44d).
+Acesse o Dashboard: (https://lookerstudio.google.com/reporting/fac8a9a1-8372-4a8c-b27b-ca2b04342c0b).
 # Como Usar
 Clone o Repositório: Clone este repositório em sua máquina local usando o seguinte comando:
 ```
